@@ -1,6 +1,3 @@
-Yes, the description I provided is already in Markdown format. Here's the same content with the explicit confirmation that it's in Markdown:
-
-```markdown
 # AquaLevel - Water Tank Monitoring System
 
 A comprehensive Android application for monitoring and managing water levels in tanks equipped with the AquaLevel ESP32-based ultrasonic sensor system.
@@ -41,6 +38,3 @@ Built with modern Android development practices:
 ## Installation
 
 Clone the repository and open in Android Studio, or download the latest release from the Releases section.
-```
-
-You can copy and paste this directly into your GitHub README.md file.
